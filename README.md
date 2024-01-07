@@ -39,5 +39,7 @@ Integrate a light sensor to detect the ambient light levels to automatically ope
 ![IMG_3047](https://github.com/adaudaa/Automated-Blinds-System/assets/116843288/c6142513-e66e-4b9e-83a4-e1b951fdafc7)
 
 
+# Project Demo
 
+https://youtu.be/sV345Y_G90w
 
